@@ -4,6 +4,15 @@
 
 This report summarizes the steps taken for data exploration and preprocessing on a given dataset. The process aims to ensure data quality and relevance for subsequent analyses or modeling.
 
+## Results:
+![image](https://github.com/khadpham/Loan-Default-Prediction/assets/105153013/30a8fdf6-4a27-4667-ac78-f642c64d6644)
+
+- Accuracy: 92.42%
+- Precision: 98.27%
+- Recall: 86.12%
+- F1 Score: 91.79%
+- ROC AUC: 96.11%
+
 ## Table of Contents
 
 - [Initial Data Exploration](#initial-data-exploration)
@@ -152,6 +161,8 @@ The 'Loan Amount' column was discretized into three categories: 'Low', 'Medium',
 ### Combining
 
 No combining methods like PCA were applied at this stage.
+
+
 
 ---
 
